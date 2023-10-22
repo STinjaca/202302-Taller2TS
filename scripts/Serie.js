@@ -20,6 +20,15 @@ var Serie = /** @class */ (function () {
     Serie.prototype.getPlataforma = function () {
         return this.plataforma;
     };
+    Serie.prototype.getDescripcion = function () {
+        return this.descripcion;
+    };
+    Serie.prototype.getReferencia = function () {
+        return this.referencia;
+    };
+    Serie.prototype.getImagen = function () {
+        return this.imagen;
+    };
     return Serie;
 }());
 export { Serie };
