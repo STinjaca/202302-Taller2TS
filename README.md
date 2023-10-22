@@ -1,2 +1,2 @@
-# 202302-Taller1TS
-Taller 1 de TypeScript
+# 202302-Taller2TS
+Taller 2 de TypeScript
